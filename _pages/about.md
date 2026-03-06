@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "何俊豪的个人主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ Github: https://github.com/socratesclub
 
 ## People
 ### Directer
-- Cheng-Jun Wang https://chengjun.github.io/
+- 好吃鱼27 https://haochiyu27.github.io/
 
 
 🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
