@@ -11,31 +11,17 @@ redirect_from:
 
 Education
 ======
+* H.S. in Shenzhen, Shenzhen High School, 2024
 * B.S. in Nanjing, Nanjing University, 2028
 
 
 Work experience
 ======
+学长团成员-深圳中学19届学长团
+南星梦想计划成员-南京大学2025南星计划
 
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
- 
-Talks
-======
-  
-Teaching
-======
-
-  
-Service and leadership
-======
+* 数据库技术
+* C语言
+* 数据可视化
